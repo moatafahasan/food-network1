@@ -1,0 +1,119 @@
+.flex {
+    display: flex;
+}
+
+.section2 {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.section3 {
+    display: flex;
+}
+
+.section5 {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding: 40px;
+}
+
+.One3 {
+    width: 30%;
+    box-shadow: 10px 10px 35px black;
+    margin: 25px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.align {
+    padding-top: 30px;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 900;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    padding: 15px 30px;
+    border: none;
+    background-image: linear-gradient(orange, tomato);
+    font-size: 20px;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+span {
+    color: orangered;
+}
+
+.recipies h1 {
+    text-align: center;
+}
+
+.recipies p {
+    text-align: center;
+}
+
+.image-2 {
+    padding-left: 130px;
+}
+
+.One3 img {
+    width: 100%;
+}
+
+.section4 {
+    margin: 200px 30px;
+
+}
+
+.div-main {
+    box-shadow: 10px 10px 35px black;
+    border-radius: 20px;
+}
+
+.div-item {
+    text-align: center;
+    padding: 60px;
+    width: 33.33%;
+}
+
+footer {
+    background-color: black;
+}
+
+footer h1 {
+    color: rgb(83, 83, 83);
+    padding: 20px;
+    text-align: center;
+}
+
+footer h1 span {
+    color: orangered;
+}
+
+footer h3 {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    line-height: 0px;
+}
+
+.pic img {
+    box-shadow: 10px 10px 45px black;
+}
